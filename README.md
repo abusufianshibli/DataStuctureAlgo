@@ -10,7 +10,7 @@ Table Of Content-
 
 *[Basic Oparations](#basic-oparations)
 
-*[Static & dynamic Array](#static-&-dynamic)
+*[Static & dynamic Array](#static-&-dynamic-array)
 
 
 ## What is Data Structure?
